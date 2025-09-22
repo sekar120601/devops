@@ -15,14 +15,10 @@
 
   <main>
     <p>Hari ini aku pelatihan dev ops gaes</p>
-    <p>Bersama bapak bapak</p>
-    <p>ayooo bisaaa lah</p>
-    <p>Fitur 2</p>
-    <p>Fitur 3</p>
   </main>
 
   <footer>
-    <p>&copy; 2025 SEMANGAT 1</p>
+    <p>&copy; 2025 SEMANGAT</p>
   </footer>
 
 </body>
