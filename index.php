@@ -17,6 +17,7 @@
     <p>Hari ini aku pelatihan dev ops gaes</p>
     <p>Bersama bapak bapak</p>
     <p>ayooo bisaaa lah</p>
+     <p>Fitur 2</p>
   </main>
 
   <footer>
